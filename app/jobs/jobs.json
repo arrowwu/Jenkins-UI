@@ -1,0 +1,48 @@
+{
+  "assignedLabels": [
+    {}
+  ],
+  "mode": "NORMAL",
+  "nodeDescription": "the master Jenkins node",
+  "nodeName": "",
+  "numExecutors": 2,
+  "description": null,
+  "jobs": [
+    {
+      "name": "LZ_API_Dev_External",
+      "url": "http://10.1.75.195:8080/job/LZ_API_Dev_External/",
+      "color": "blue"
+    },
+    {
+      "name": "LZ_API_Dev_Internal",
+      "url": "http://10.1.75.195:8080/job/LZ_API_Dev_Internal/",
+      "color": "blue"
+    },
+    {
+      "name": "LZ_OM_Full",
+      "url": "http://10.1.75.195:8080/job/LZ_OM_Full/",
+      "color": "yellow"
+    },
+    {
+      "name": "LZ_Web_Core",
+      "url": "http://10.1.75.195:8080/job/LZ_Web_Core/",
+      "color": "red"
+    }
+  ],
+  "overallLoad": {},
+  "primaryView": {
+    "name": "All",
+    "url": "http://10.1.75.195:8080/"
+  },
+  "quietingDown": false,
+  "slaveAgentPort": 0,
+  "unlabeledLoad": {},
+  "useCrumbs": false,
+  "useSecurity": true,
+  "views": [
+    {
+      "name": "All",
+      "url": "http://10.1.75.195:8080/"
+    }
+  ]
+}

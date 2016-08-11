@@ -1,0 +1,57 @@
+<div class="container-fluid">
+  <div class="row">
+
+    <!-- div class="job-images">
+      <img ng-src="{{img}}" class="job"
+        ng-class="{selected: img === $ctrl.mainImageUrl}"
+        ng-repeat="img in $ctrl.job.images" />
+    </div> -->
+
+    <div class="col-md-4"> </div>
+  
+    <div class="col-md-4">
+  
+    <h1><a href="{{$ctrl.job.url}}">{{$ctrl.job.name}}</a></h1>
+
+    <p>{{$ctrl.job.description}}</p>
+
+    <p><span class="label label-primary">Number of Test Executions</span> <span class="badge"> {{$ctrl.job.builds.length}}</span></p>
+
+    <ul class="specs">
+      <li>			
+	  <div class="panel panel-primary">
+        <div class="panel-heading">Latest Execution</div>
+        <div class="panel-body">
+          <ul class="list-inline">
+            <li>
+			  <a href="#!/jobs/{{$ctrl.job.name}}/builds/{{$ctrl.job.lastBuild.number}}">#{{$ctrl.job.lastBuild.number}}</a>
+			</li>
+			<li></li>
+			<li></li>
+			<li></li>
+			<li></li>
+			<li></li>
+			<li></li>
+            <li>
+			  <a href="{{$ctrl.job.lastBuild.url}}" data-toggle="tooltip" title="Go to Jenkins Server">
+			    <img ng-src="img/jenkins.png" />
+			  </a>
+			</li>
+          </ul>
+		  
+		</div>
+      </div>					
+      </li>
+    </ul>
+  
+
+    </div>
+  
+    <div class="col-md-4">
+	  <button><a href="#!/jobs/{{$ctrl.job.name}}/newBuild" onClick="return confirm('Are you sure you want to start the build?')" data-toggle="tooltip" title="Execute this test suite now"><img ng-src="img/build.png" /></a></button>
+	</div>
+
+  </div>
+</div>
+
+

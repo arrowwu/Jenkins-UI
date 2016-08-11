@@ -1,0 +1,39 @@
+<div class="container-fluid">
+  <div class="row">
+
+    <div class="col-md-4"> </div>
+  
+    <div class="col-md-4">  
+      <h1><a href="{{$ctrl.build.url}}">{{$ctrl.build.fullDisplayName}}</a></h1>
+	  <p><mydate>{{$ctrl.build.timestamp | date:'yyyy-MM-dd HH:mm:ss Z'}}</mydate></p>  
+
+	<ul class="specs">
+      <li>			
+	  <div class="panel panel-primary">
+        <div class="panel-heading">Result</div>
+        <div class="panel-body">
+          <dl>
+	        <dt></dt>
+            <dd ng-repeat="act in $ctrl.build.actions | limitTo:1:4">
+	          <span class="label label-info">Total Count</span>
+		      <span class="badge">{{act.totalCount}}<span>
+	        </dd>
+	        <dt></dt>
+            <dd ng-repeat="act in $ctrl.build.actions | limitTo:1:7">
+	          <span class="label label-danger">Failed Count</span>
+		      <span class="badge">{{act.failCount}}<span>
+	        </dd>
+          </dl>		
+		</div>
+      </div>					
+      </li>
+    </ul>	  	  	  
+    </div>
+  
+    <div class="col-md-4"></div>
+
+  </div>
+</div>
+
+
+ 

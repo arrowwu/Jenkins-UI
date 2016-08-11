@@ -1,0 +1,378 @@
+{
+  "actions" : [
+    {
+      
+    },
+    {
+      
+    },
+    null,
+    {
+      
+    }
+  ],
+  "description" : "This test suite includes all the Core functional test cases.",
+  "displayName" : "LZ_Web_Core",
+  "displayNameOrNull" : null,
+  "name" : "LZ_Web_Core",
+  "url" : "http://10.1.75.195:8080/job/LZ_Web_Core/",
+  "buildable" : true,
+  "builds" : [
+    {
+      "number" : 72,
+      "url" : "http://10.1.75.195:8080/job/LZ_Web_Core/72/"
+    },
+    {
+      "number" : 71,
+      "url" : "http://10.1.75.195:8080/job/LZ_Web_Core/71/"
+    },
+    {
+      "number" : 70,
+      "url" : "http://10.1.75.195:8080/job/LZ_Web_Core/70/"
+    },
+    {
+      "number" : 69,
+      "url" : "http://10.1.75.195:8080/job/LZ_Web_Core/69/"
+    },
+    {
+      "number" : 68,
+      "url" : "http://10.1.75.195:8080/job/LZ_Web_Core/68/"
+    },
+    {
+      "number" : 67,
+      "url" : "http://10.1.75.195:8080/job/LZ_Web_Core/67/"
+    },
+    {
+      "number" : 66,
+      "url" : "http://10.1.75.195:8080/job/LZ_Web_Core/66/"
+    },
+    {
+      "number" : 65,
+      "url" : "http://10.1.75.195:8080/job/LZ_Web_Core/65/"
+    },
+    {
+      "number" : 64,
+      "url" : "http://10.1.75.195:8080/job/LZ_Web_Core/64/"
+    },
+    {
+      "number" : 63,
+      "url" : "http://10.1.75.195:8080/job/LZ_Web_Core/63/"
+    },
+    {
+      "number" : 62,
+      "url" : "http://10.1.75.195:8080/job/LZ_Web_Core/62/"
+    },
+    {
+      "number" : 61,
+      "url" : "http://10.1.75.195:8080/job/LZ_Web_Core/61/"
+    },
+    {
+      "number" : 60,
+      "url" : "http://10.1.75.195:8080/job/LZ_Web_Core/60/"
+    },
+    {
+      "number" : 59,
+      "url" : "http://10.1.75.195:8080/job/LZ_Web_Core/59/"
+    },
+    {
+      "number" : 58,
+      "url" : "http://10.1.75.195:8080/job/LZ_Web_Core/58/"
+    },
+    {
+      "number" : 57,
+      "url" : "http://10.1.75.195:8080/job/LZ_Web_Core/57/"
+    },
+    {
+      "number" : 56,
+      "url" : "http://10.1.75.195:8080/job/LZ_Web_Core/56/"
+    },
+    {
+      "number" : 55,
+      "url" : "http://10.1.75.195:8080/job/LZ_Web_Core/55/"
+    },
+    {
+      "number" : 54,
+      "url" : "http://10.1.75.195:8080/job/LZ_Web_Core/54/"
+    },
+    {
+      "number" : 53,
+      "url" : "http://10.1.75.195:8080/job/LZ_Web_Core/53/"
+    },
+    {
+      "number" : 52,
+      "url" : "http://10.1.75.195:8080/job/LZ_Web_Core/52/"
+    },
+    {
+      "number" : 51,
+      "url" : "http://10.1.75.195:8080/job/LZ_Web_Core/51/"
+    },
+    {
+      "number" : 50,
+      "url" : "http://10.1.75.195:8080/job/LZ_Web_Core/50/"
+    },
+    {
+      "number" : 49,
+      "url" : "http://10.1.75.195:8080/job/LZ_Web_Core/49/"
+    },
+    {
+      "number" : 48,
+      "url" : "http://10.1.75.195:8080/job/LZ_Web_Core/48/"
+    },
+    {
+      "number" : 47,
+      "url" : "http://10.1.75.195:8080/job/LZ_Web_Core/47/"
+    },
+    {
+      "number" : 46,
+      "url" : "http://10.1.75.195:8080/job/LZ_Web_Core/46/"
+    },
+    {
+      "number" : 45,
+      "url" : "http://10.1.75.195:8080/job/LZ_Web_Core/45/"
+    },
+    {
+      "number" : 44,
+      "url" : "http://10.1.75.195:8080/job/LZ_Web_Core/44/"
+    },
+    {
+      "number" : 43,
+      "url" : "http://10.1.75.195:8080/job/LZ_Web_Core/43/"
+    },
+    {
+      "number" : 42,
+      "url" : "http://10.1.75.195:8080/job/LZ_Web_Core/42/"
+    },
+    {
+      "number" : 41,
+      "url" : "http://10.1.75.195:8080/job/LZ_Web_Core/41/"
+    },
+    {
+      "number" : 40,
+      "url" : "http://10.1.75.195:8080/job/LZ_Web_Core/40/"
+    },
+    {
+      "number" : 39,
+      "url" : "http://10.1.75.195:8080/job/LZ_Web_Core/39/"
+    },
+    {
+      "number" : 38,
+      "url" : "http://10.1.75.195:8080/job/LZ_Web_Core/38/"
+    },
+    {
+      "number" : 37,
+      "url" : "http://10.1.75.195:8080/job/LZ_Web_Core/37/"
+    },
+    {
+      "number" : 36,
+      "url" : "http://10.1.75.195:8080/job/LZ_Web_Core/36/"
+    },
+    {
+      "number" : 35,
+      "url" : "http://10.1.75.195:8080/job/LZ_Web_Core/35/"
+    },
+    {
+      "number" : 34,
+      "url" : "http://10.1.75.195:8080/job/LZ_Web_Core/34/"
+    },
+    {
+      "number" : 33,
+      "url" : "http://10.1.75.195:8080/job/LZ_Web_Core/33/"
+    },
+    {
+      "number" : 32,
+      "url" : "http://10.1.75.195:8080/job/LZ_Web_Core/32/"
+    },
+    {
+      "number" : 31,
+      "url" : "http://10.1.75.195:8080/job/LZ_Web_Core/31/"
+    },
+    {
+      "number" : 30,
+      "url" : "http://10.1.75.195:8080/job/LZ_Web_Core/30/"
+    },
+    {
+      "number" : 29,
+      "url" : "http://10.1.75.195:8080/job/LZ_Web_Core/29/"
+    },
+    {
+      "number" : 28,
+      "url" : "http://10.1.75.195:8080/job/LZ_Web_Core/28/"
+    },
+    {
+      "number" : 27,
+      "url" : "http://10.1.75.195:8080/job/LZ_Web_Core/27/"
+    },
+    {
+      "number" : 26,
+      "url" : "http://10.1.75.195:8080/job/LZ_Web_Core/26/"
+    },
+    {
+      "number" : 25,
+      "url" : "http://10.1.75.195:8080/job/LZ_Web_Core/25/"
+    },
+    {
+      "number" : 24,
+      "url" : "http://10.1.75.195:8080/job/LZ_Web_Core/24/"
+    },
+    {
+      "number" : 23,
+      "url" : "http://10.1.75.195:8080/job/LZ_Web_Core/23/"
+    },
+    {
+      "number" : 22,
+      "url" : "http://10.1.75.195:8080/job/LZ_Web_Core/22/"
+    },
+    {
+      "number" : 21,
+      "url" : "http://10.1.75.195:8080/job/LZ_Web_Core/21/"
+    },
+    {
+      "number" : 20,
+      "url" : "http://10.1.75.195:8080/job/LZ_Web_Core/20/"
+    },
+    {
+      "number" : 19,
+      "url" : "http://10.1.75.195:8080/job/LZ_Web_Core/19/"
+    },
+    {
+      "number" : 18,
+      "url" : "http://10.1.75.195:8080/job/LZ_Web_Core/18/"
+    },
+    {
+      "number" : 17,
+      "url" : "http://10.1.75.195:8080/job/LZ_Web_Core/17/"
+    },
+    {
+      "number" : 16,
+      "url" : "http://10.1.75.195:8080/job/LZ_Web_Core/16/"
+    },
+    {
+      "number" : 15,
+      "url" : "http://10.1.75.195:8080/job/LZ_Web_Core/15/"
+    },
+    {
+      "number" : 14,
+      "url" : "http://10.1.75.195:8080/job/LZ_Web_Core/14/"
+    },
+    {
+      "number" : 13,
+      "url" : "http://10.1.75.195:8080/job/LZ_Web_Core/13/"
+    },
+    {
+      "number" : 12,
+      "url" : "http://10.1.75.195:8080/job/LZ_Web_Core/12/"
+    },
+    {
+      "number" : 11,
+      "url" : "http://10.1.75.195:8080/job/LZ_Web_Core/11/"
+    },
+    {
+      "number" : 10,
+      "url" : "http://10.1.75.195:8080/job/LZ_Web_Core/10/"
+    },
+    {
+      "number" : 9,
+      "url" : "http://10.1.75.195:8080/job/LZ_Web_Core/9/"
+    },
+    {
+      "number" : 8,
+      "url" : "http://10.1.75.195:8080/job/LZ_Web_Core/8/"
+    },
+    {
+      "number" : 7,
+      "url" : "http://10.1.75.195:8080/job/LZ_Web_Core/7/"
+    },
+    {
+      "number" : 6,
+      "url" : "http://10.1.75.195:8080/job/LZ_Web_Core/6/"
+    },
+    {
+      "number" : 5,
+      "url" : "http://10.1.75.195:8080/job/LZ_Web_Core/5/"
+    },
+    {
+      "number" : 4,
+      "url" : "http://10.1.75.195:8080/job/LZ_Web_Core/4/"
+    },
+    {
+      "number" : 3,
+      "url" : "http://10.1.75.195:8080/job/LZ_Web_Core/3/"
+    },
+    {
+      "number" : 2,
+      "url" : "http://10.1.75.195:8080/job/LZ_Web_Core/2/"
+    },
+    {
+      "number" : 1,
+      "url" : "http://10.1.75.195:8080/job/LZ_Web_Core/1/"
+    }
+  ],
+  "color" : "aborted",
+  "firstBuild" : {
+    "number" : 1,
+    "url" : "http://10.1.75.195:8080/job/LZ_Web_Core/1/"
+  },
+  "healthReport" : [
+    {
+      "description" : "Build stability: All recent builds failed.",
+      "iconClassName" : "icon-health-00to19",
+      "iconUrl" : "health-00to19.png",
+      "score" : 0
+    }
+  ],
+  "inQueue" : false,
+  "keepDependencies" : false,
+  "lastBuild" : {
+    "number" : 72,
+    "url" : "http://10.1.75.195:8080/job/LZ_Web_Core/72/"
+  },
+  "lastCompletedBuild" : {
+    "number" : 72,
+    "url" : "http://10.1.75.195:8080/job/LZ_Web_Core/72/"
+  },
+  "lastFailedBuild" : {
+    "number" : 71,
+    "url" : "http://10.1.75.195:8080/job/LZ_Web_Core/71/"
+  },
+  "lastStableBuild" : {
+    "number" : 45,
+    "url" : "http://10.1.75.195:8080/job/LZ_Web_Core/45/"
+  },
+  "lastSuccessfulBuild" : {
+    "number" : 59,
+    "url" : "http://10.1.75.195:8080/job/LZ_Web_Core/59/"
+  },
+  "lastUnstableBuild" : {
+    "number" : 59,
+    "url" : "http://10.1.75.195:8080/job/LZ_Web_Core/59/"
+  },
+  "lastUnsuccessfulBuild" : {
+    "number" : 72,
+    "url" : "http://10.1.75.195:8080/job/LZ_Web_Core/72/"
+  },
+  "nextBuildNumber" : 73,
+  "property" : [
+    {
+      
+    }
+  ],
+  "queueItem" : null,
+  "concurrentBuild" : false,
+  "downstreamProjects" : [
+    
+  ],
+  "scm" : {
+    
+  },
+  "upstreamProjects" : [
+    
+  ],
+  "modules" : [
+    {
+      "name" : "com.legalzoom.web:lz_web_tests",
+      "url" : "http://10.1.75.195:8080/job/LZ_Web_Core/com.legalzoom.web$lz_web_tests/",
+      "color" : "aborted",
+      "displayName" : "lz_web_tests"
+    }
+  ]
+}
