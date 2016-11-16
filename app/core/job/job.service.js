@@ -38,6 +38,3 @@ angular.
 	
 	
   ]);
-  
-  X-Requested-With
-  X-PINGOTHER
