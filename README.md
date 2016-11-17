@@ -2,7 +2,8 @@
 ## Overview
 
 This project is a simplified user interface for test automation. It is communicating with 
-Jenkins server through Jenkins Rest APIs
+Jenkins server through Jenkins Rest APIs.
+`CORS Filter Plugin needs to be installed in Jenkins`
 
 
 ### Installing Dependencies

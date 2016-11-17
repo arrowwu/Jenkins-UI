@@ -7,7 +7,7 @@ angular.
     templateUrl: 'job-list/job-list.template.html',
     controller: ['Job',
       function JobListController(Job) {
-        this.jobs = Job.query();
+        this.jobs = Job.query();          //CORS plugin needs to be installed in Jenkins
         this.orderProp = 'name';
       }
     ]
